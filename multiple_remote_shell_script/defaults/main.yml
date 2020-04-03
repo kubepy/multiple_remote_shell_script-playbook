@@ -1,0 +1,6 @@
+---
+# defaults file for multiple_remote_shell_script
+output_path: .
+shell_script:
+  - "echo_install.sh start to install"
+  - "echo_uninstall.sh start to uninstall"
